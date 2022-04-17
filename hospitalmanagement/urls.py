@@ -10,7 +10,7 @@ urlpatterns = [
     path('',views.home_view,name=''),
 
 
-    path('aboutus', views.aboutus_view),
+    path('services', views.aboutus_view),
     path('contactus', views.contactus_view),
 
 
